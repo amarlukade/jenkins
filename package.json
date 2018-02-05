@@ -1,0 +1,26 @@
+{
+  "name": "samplecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amarlukade/jenkins.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/amarlukade/jenkins/issues"
+  },
+  "dependencies": {
+    "express": "~4.16.2"
+  },
+  "devDependencies": {
+    "should": "~13.2.1",
+    "mocha": "~5.0.0",
+    "supertest": "~3.0.0"
+  }
+}
